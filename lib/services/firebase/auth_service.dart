@@ -24,6 +24,13 @@ class AuthService {
         'phoneNumber': phoneNumber,
         'name': name,
         'password': sha256.convert(utf8.encode(password)).toString(),
+        'mailboxID': [
+          "6Ca0xyQKQ6xpF5dnrw3P" //! Test data, remove in production
+        ],
+        'orderID': [
+          "dBd5w8Of554d7krwXqog" //! Test data, remove in production
+        ],
+        'lovedShopID': [],
       });
     } catch (e) {
       print(e);
