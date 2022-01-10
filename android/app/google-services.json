@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "380038097405",
+    "project_id": "baemin-7ff14",
+    "storage_bucket": "baemin-7ff14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380038097405:android:090d47eab6ac9189ead194",
+        "android_client_info": {
+          "package_name": "com.ndungx.baemin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380038097405-1ah180hk4ddpa18nk559kkptbt6kgdps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ndungx.baemin",
+            "certificate_hash": "67e89ecc33dd74158973c0bd466ab02a27a1ab1a"
+          }
+        },
+        {
+          "client_id": "380038097405-2n3e45fk8vop0gdih3doa4pi017ne5jc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxEF-IyDDNfkhOTZX8ngEVqVOX58yKwDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380038097405-2n3e45fk8vop0gdih3doa4pi017ne5jc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
