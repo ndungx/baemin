@@ -59,8 +59,12 @@ class AuthService {
             'email': userData['email'],
             'imageUrl': userData['picture']['data']['url'],
             'name': userData['name'],
-            'mailboxID': [],
-            'orderID': [],
+            'mailboxID': [
+              "6Ca0xyQKQ6xpF5dnrw3P" //! Test data, remove in production
+            ],
+            'orderID': [
+              "dBd5w8Of554d7krwXqog" //! Test data, remove in production
+            ],
             'lovedShopID': [],
           });
         }
